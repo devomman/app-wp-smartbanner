@@ -1,4 +1,4 @@
-=== WP Smart Banner ===
+=== App WP Smart Banner ===
 Contributors: Muhammad Omman @devomman
 Tags: ios, android, smart, banner, mobile banner, app banner
 Requires at least: 6.0
